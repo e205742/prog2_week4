@@ -1,3 +1,5 @@
+package src;
+
 public class Chatbot {
     private String name;
 
